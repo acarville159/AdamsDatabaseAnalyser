@@ -1,0 +1,4 @@
+﻿How to use:
+1.Export the database schema to sql files - https://codebots.com/docs/export-schema-using-sql-server-management-studio-ssms (takes a long time - schema only  + export triggers in advanced settings)
+2.Run
+3.Profit?
